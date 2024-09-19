@@ -1,2 +1,2 @@
-# Repository for the course website.
+# Repository for the course website
 Course Website
